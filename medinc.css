@@ -13,28 +13,35 @@ p {
 
 #red {
 	background-color: red;
+	color: red;
 }
 
 #orange {
 	background-color: orange;
+	color: orange;
 }
 
 #yellow {
 	background-color: yellow;
+	color: yellow;
 }
 
 #green {
 	background-color: #00FF00;
+	color: #00FF00;
 }
 
 #blue {
 	background-color: blue;
+	color: blue;
 }
 
 #purple {
 	background-color: magenta;
+	color: magenta;
 }
 
 #grey {
 	background-color: gray;
+	color: grey;
 }
