@@ -3,13 +3,14 @@
 .color {
 	height: auto;
 	width: 10%;
+	display: flex;
 }
 
 p {
 
 	font-family: fira code;
 	font-weight: 400;
-	float: left;
+	float: right;
 }
 
 #red {
